@@ -1,0 +1,153 @@
+121
+background_0			GameSound/Background/TerranSC2-01.ogg				1
+background_1			GameSound/Background/TerranSC2-04.ogg				1
+
+not_enough_food			GameSound/System/Alert_TerranNeedMoreFood.ogg			0
+not_enough_mineral		GameSound/System/Alert_TerranNeedMoreMinerals.ogg		0
+not_enough_gas			GameSound/System/Alert_TerranNeedMoreGas.ogg			0
+cannot_build			GameSound/System/SCV_CantBuild00.ogg				0
+job_finish			GameSound/System/SCV_JobsFinished00.ogg				0
+
+armory_what			GameSound/Building/Armory/Armory_What.ogg				0
+armory_death			GameSound/Building/Armory/Terran_ExplosionLarge3.wav			0
+
+barrack_what			GameSound/Building/Barrack/Barracks_What.ogg				0
+barrack_death			GameSound/Building/Barrack/Terran_ExplosionLarge5.wav			0
+
+bunker_what			GameSound/Building/Bunker/Bunker_What.ogg				0
+bunker_death			GameSound/Building/Bunker/Terran_ExplosionMedium6.wav			0
+
+commandcenter_what		GameSound/Building/Commandcenter/CommandCenter_What.ogg			0
+commandcenter_death		GameSound/Building/Commandcenter/Terran_ExplosionLarge4.wav		0
+
+engineeringbay_what		GameSound/Building/Engineeringbay/EngineeringBay_What.ogg		0
+engineeringbay_death		GameSound/Building/Engineeringbay/Terran_ExplosionLarge2.wav		0
+
+factory_what			GameSound/Building/Factory/Factory_What.ogg				0
+factory_death			GameSound/Building/Factory/Terran_ExplosionLarge4.wav			0
+
+fusioncore_what			GameSound/Building/Fusioncore/Fusioncore_What.ogg			0
+fusioncore_death		GameSound/Building/Fusioncore/Terran_ExplosionLarge9.wav			0
+
+ghostacademy_what		GameSound/Building/Ghostacademy/Ghostacademy_What.ogg				0
+ghostacademy_death		GameSound/Building/Ghostacademy/Terran_ExplosionLarge1.wav			0
+
+missileturret_what		GameSound/Building/Missileturret/Missileturret_What.ogg				0
+missileturret_death		GameSound/Building/Missileturret/Terran_ExplosionMedium7.wav			0
+
+reactor_what		GameSound/Building/Reactor/Reactor_What.ogg				0
+reactor_death		GameSound/Building/Reactor/Terran_ExplosionMedium8.wav			0
+
+refinery_what		GameSound/Building/Refinery/Refinery_What.ogg				0
+refinery_death		GameSound/Building/Refinery/Terran_ExplosionLarge7.wav			0
+
+sensortower_what		GameSound/Building/Sensortower/Sensortower_What.ogg				0
+sensortower_death		GameSound/Building/Sensortower/Terran_ExplosionMedium4.wav			0
+
+starport_what		GameSound/Building/Starport/Starport_What.ogg				0
+starport_death		GameSound/Building/Starport/Terran_ExplosionLarge7.wav			0
+
+supplydepot_what		GameSound/Building/Supplydepot/Supplydepot_What.ogg				0
+supplydepot_death		GameSound/Building/Supplydepot/Terran_ExplosionMedium3.wav			0
+
+techlab_what		GameSound/Building/Techlab/Techlab_What.ogg				0
+techlab_death		GameSound/Building/Techlab/Terran_ExplosionMedium3.wav			0
+
+
+banshee_ready	GameSound/Unit/Banshee/Banshee_Ready00.ogg		0
+banshee_death	GameSound/Unit/Banshee/Terran_ExplosionMedium1.wav	0
+banshee_attack	GameSound/Unit/Banshee/Banshee_AttackLaunch0.wav		0
+banshee_what0	GameSound/Unit/Banshee/Banshee_What01.ogg			0
+banshee_what1	GameSound/Unit/Banshee/Banshee_What03.ogg			0
+banshee_what2	GameSound/Unit/Banshee/Banshee_What04.ogg			0
+
+battlecruiser_ready	GameSound/Unit/Battlecruiser/Battlecruiser_Ready00.ogg		0
+battlecruiser_death	GameSound/Unit/Battlecruiser/Battlecruiser_Death00.wav	0
+battlecruiser_attack	GameSound/Unit/Battlecruiser/Terran_ExplosionSmall5.wav		0
+battlecruiser_what0	GameSound/Unit/Battlecruiser/Battlecruiser_What00.ogg			0
+battlecruiser_what1	GameSound/Unit/Battlecruiser/Battlecruiser_What03.ogg			0
+battlecruiser_what2	GameSound/Unit/Battlecruiser/Battlecruiser_What04.ogg			0
+
+ghost_ready	GameSound/Unit/Ghost/Ghost_Ready00.ogg		0
+ghost_death	GameSound/Unit/Ghost/Ghost_Death01.wav	0
+ghost_attack	GameSound/Unit/Ghost/Terran_SingleBulletAttackImpact2.wav		0
+ghost_what0	GameSound/Unit/Ghost/Ghost_What01.ogg			0
+ghost_what1	GameSound/Unit/Ghost/Ghost_What02.ogg			0
+ghost_what2	GameSound/Unit/Ghost/Ghost_What04.ogg			0
+
+hellion_ready	GameSound/Unit/Hellion/Hellion_NeuralParasiteReady00.ogg		0
+hellion_death	GameSound/Unit/Hellion/Terran_ExplosionMedium0.wav	0
+hellion_attack	GameSound/Unit/Hellion/Hellion_AttackImpact0.wav		0
+hellion_what0	GameSound/Unit/Hellion/Hellion_What00.ogg			0
+hellion_what1	GameSound/Unit/Hellion/Hellion_What01.ogg			0
+hellion_what2	GameSound/Unit/Hellion/Hellion_What03.ogg			0
+
+marauder_ready	GameSound/Unit/Marauder/Marauder_Ready00.ogg		0
+marauder_death	GameSound/Unit/Marauder/Marauder_Death06.wav	0
+marauder_attack	GameSound/Unit/Marauder/Marauder_AttackLaunch2.wav		0
+marauder_what0	GameSound/Unit/Marauder/Marauder_What00.ogg			0
+marauder_what1	GameSound/Unit/Marauder/Marauder_What02.ogg			0
+marauder_what2	GameSound/Unit/Marauder/Marauder_What05.ogg			0
+
+marine_ready	GameSound/Unit/Marine/Marine_Ready00.ogg		0
+marine_death	GameSound/Unit/Marine/Marine_Death01.wav	0
+marine_attack	GameSound/Unit/Marine/Terran_MultipleBulletAttackImpact0.wav		0
+marine_what0	GameSound/Unit/Marine/Marine_What00.ogg			0
+marine_what1	GameSound/Unit/Marine/Marine_What03.ogg			0
+marine_what2	GameSound/Unit/Marine/Marine_What04.ogg			0
+
+medivac_ready	GameSound/Unit/Medivac/Medivac_Ready00.ogg		0
+medivac_death	GameSound/Unit/Medivac/Terran_ExplosionMedium8.wav	0
+medivac_attack	GameSound/Unit/Medivac/Medivac_HealStart.wav		0
+medivac_what0	GameSound/Unit/Medivac/Medivac_What00.ogg			0
+medivac_what1	GameSound/Unit/Medivac/Medivac_What01.ogg			0
+medivac_what2	GameSound/Unit/Medivac/Medivac_What06.ogg			0
+
+mule_ready	GameSound/Unit/Mule/Mule_Ready0.ogg		0
+mule_death	GameSound/Unit/Mule/Mule_Explode1.wav	0
+mule_attack	GameSound/Unit/Mule/Mule_GatherMinerals0.wav		0
+mule_what0	GameSound/Unit/Mule/Mule_What01.ogg			0
+mule_what1	GameSound/Unit/Mule/Mule_What04.ogg			0
+mule_what2	GameSound/Unit/Mule/Mule_What07.ogg			0
+
+raven_ready	GameSound/Unit/Raven/Raven_Ready00.ogg		0
+raven_death	GameSound/Unit/Raven/Terran_ExplosionMedium5.wav	0
+raven_attack	GameSound/Unit/Raven/MissileTurret_AttackLaunch0.wav		0
+raven_what0	GameSound/Unit/Raven/Raven_What00.ogg			0
+raven_what1	GameSound/Unit/Raven/Raven_What04.ogg			0
+raven_what2	GameSound/Unit/Raven/Raven_What05.ogg			0
+
+reaper_ready	GameSound/Unit/Reaper/Reaper_Ready00.ogg		0
+reaper_death	GameSound/Unit/Reaper/Reaper_Death00.wav	0
+reaper_attack	GameSound/Unit/Reaper/Terran_SingleBulletAttackImpact1.wav		0
+reaper_what0	GameSound/Unit/Reaper/Reaper_What01.ogg			0
+reaper_what1	GameSound/Unit/Reaper/Reaper_What02.ogg			0
+reaper_what2	GameSound/Unit/Reaper/Reaper_What03.ogg			0
+
+scv_ready	GameSound/Unit/Scv/Scv_Ready00.ogg		0
+scv_death	GameSound/Unit/Scv/SCV_Death00.wav	0
+scv_attack	GameSound/Unit/Scv/SCV_GatherMinerals0.wav		0
+scv_what0	GameSound/Unit/Scv/Scv_What01.ogg			0
+scv_what1	GameSound/Unit/Scv/Scv_What02.ogg			0
+scv_what2	GameSound/Unit/Scv/Scv_What03.ogg			0
+
+siegetank_ready	GameSound/Unit/Siegetank/Siegetank_Ready00.ogg		0
+siegetank_death	GameSound/Unit/Siegetank/Terran_ExplosionMedium9.wav	0
+siegetank_attack	GameSound/Unit/Siegetank/SiegeTank_ImpactSmall5.wav		0
+siegetank_what0	GameSound/Unit/Siegetank/Siegetank_What00.ogg			0
+siegetank_what1	GameSound/Unit/Siegetank/Siegetank_What02.ogg			0
+siegetank_what2	GameSound/Unit/Siegetank/Siegetank_What03.ogg			0
+
+thor_ready	GameSound/Unit/Thor/Thor_Ready00.ogg		0
+thor_death	GameSound/Unit/Thor/Terran_ExplosionLarge8.wav	0
+thor_attack	GameSound/Unit/Thor/Thor_AttackImpact0.wav		0
+thor_what0	GameSound/Unit/Thor/Thor_What03.ogg			0
+thor_what1	GameSound/Unit/Thor/Thor_What04.ogg			0
+thor_what2	GameSound/Unit/Thor/Thor_What06.ogg			0
+
+viking_ready	GameSound/Unit/Viking/Viking_Ready00.ogg		0
+viking_death	GameSound/Unit/Viking/Terran_ExplosionMedium1.wav	0
+viking_attack	GameSound/Unit/Viking/Viking_FighterAttackLaunch2.wav		0
+viking_what0	GameSound/Unit/Viking/Viking_What00.ogg			0
+viking_what1	GameSound/Unit/Viking/Viking_What01.ogg			0
+viking_what2	GameSound/Unit/Viking/Viking_What02.ogg			0

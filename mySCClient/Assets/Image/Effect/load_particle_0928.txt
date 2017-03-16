@@ -1,0 +1,14 @@
+//Name//IsProjectile//NumSprites//BetweenTime//Size//PromptMaxTime//ProjectileSpeed//Location
+[PROJECTILE]
+3
+battlecruiser_fire	1	10	0.02	0.9	0.0	8.5	Assets/Image/Effect/battlecruiser_fire.png
+viking_fire		1	12	0.04	1.2	0.0	11.0	Assets/Image/Effect/viking_fire.png
+marauder_fire		1	12	0.02	1.5	0.0	9.5	Assets/Image/Effect/marauder_fire.png
+
+[PROMPT]
+5
+marine_fire		0	18	0.05	0.9	0.9	0.0	Assets/Image/Effect/marine_fire.png
+reaper_fire		0	7	0.05	0.9	0.35	0.0	Assets/Image/Effect/reaper_fire.png
+thor_fire		0	14	0.03	1.8	0.7	0.0	Assets/Image/Effect/thor_fire.png
+explosion_1		0	12	0.02	3.5	0.6	0.0	Assets/Image/Effect/explosion_1.png
+explosion_2		0	8	0.02	3.5	0.4	0.0	Assets/Image/Effect/explosion_2.png
